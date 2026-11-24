@@ -1,6 +1,6 @@
 # Survey answers: descriptive summary
 
-Respondents: 50. Counts per option for the choice questions, and per point of the scale for the grids.
+Respondents: 50. Counts per option for the choice questions, and per point of the scale for the grids, with the average score of each item.
 
 ## Single and multiple choice questions
 
@@ -285,95 +285,95 @@ Respondents: 50. Counts per option for the choice questions, and per point of th
 
 ### How important is each of the following in a decision record?
 
-Scale: Very unimportant / Somewhat unimportant / Neutral / Somewhat important / Very important. `top2` is the share of answers in the two highest points.
+Scale: Very unimportant / Somewhat unimportant / Neutral / Somewhat important / Very important. `mean` is the average score, with the points numbered from 1 to 5; `top2` is the share of answers in the two highest points.
 
-| Item | 1 | 2 | 3 | 4 | 5 | median | top2 |
-|---|---|---|---|---|---|---|---|
-| The trade-offs knowingly accepted | 1 | 1 | 1 | 20 | 27 | 5 | 94% |
-| The reasoning that led to the choice (the "why") | 2 | 0 | 2 | 14 | 32 | 5 | 92% |
-| The problem or issue that required a decision | 3 | 0 | 4 | 18 | 25 | 4.5 | 86% |
-| The consequences of the decision | 2 | 1 | 6 | 20 | 21 | 4 | 82% |
-| The alternatives that were considered | 2 | 2 | 6 | 23 | 17 | 4 | 80% |
-| The context and constraints in force at the time | 1 | 1 | 9 | 15 | 24 | 4 | 78% |
-| Why the rejected alternatives were rejected | 2 | 3 | 10 | 20 | 15 | 4 | 70% |
-| Links to related or superseding decision records | 2 | 4 | 10 | 24 | 10 | 4 | 68% |
-| The quality attributes or use cases the decision serves | 1 | 8 | 8 | 20 | 13 | 4 | 66% |
-| The decision's current status (proposed / accepted / superseded) | 4 | 5 | 9 | 10 | 22 | 4 | 64% |
-| A title that names the decision, not just the topic | 2 | 10 | 12 | 15 | 11 | 4 | 52% |
-| Diagrams where they aid understanding | 2 | 5 | 18 | 18 | 7 | 3.5 | 50% |
-| Conditions under which the decision should not be applied | 2 | 12 | 12 | 18 | 6 | 3 | 48% |
-| Who made the decision, and when | 5 | 10 | 14 | 14 | 7 | 3 | 42% |
-| Links or references to the implementation | 7 | 10 | 20 | 10 | 3 | 3 | 26% |
+| Item | 1 | 2 | 3 | 4 | 5 | mean | median | top2 |
+|---|---|---|---|---|---|---|---|---|
+| The reasoning that led to the choice (the "why") | 2 | 0 | 2 | 14 | 32 | 4.48 | 5 | 92% |
+| The trade-offs knowingly accepted | 1 | 1 | 1 | 20 | 27 | 4.42 | 5 | 94% |
+| The problem or issue that required a decision | 3 | 0 | 4 | 18 | 25 | 4.24 | 4.5 | 86% |
+| The context and constraints in force at the time | 1 | 1 | 9 | 15 | 24 | 4.20 | 4 | 78% |
+| The consequences of the decision | 2 | 1 | 6 | 20 | 21 | 4.14 | 4 | 82% |
+| The alternatives that were considered | 2 | 2 | 6 | 23 | 17 | 4.02 | 4 | 80% |
+| Why the rejected alternatives were rejected | 2 | 3 | 10 | 20 | 15 | 3.86 | 4 | 70% |
+| The decision's current status (proposed / accepted / superseded) | 4 | 5 | 9 | 10 | 22 | 3.82 | 4 | 64% |
+| Links to related or superseding decision records | 2 | 4 | 10 | 24 | 10 | 3.72 | 4 | 68% |
+| The quality attributes or use cases the decision serves | 1 | 8 | 8 | 20 | 13 | 3.72 | 4 | 66% |
+| A title that names the decision, not just the topic | 2 | 10 | 12 | 15 | 11 | 3.46 | 4 | 52% |
+| Diagrams where they aid understanding | 2 | 5 | 18 | 18 | 7 | 3.46 | 3.5 | 50% |
+| Conditions under which the decision should not be applied | 2 | 12 | 12 | 18 | 6 | 3.28 | 3 | 48% |
+| Who made the decision, and when | 5 | 10 | 14 | 14 | 7 | 3.16 | 3 | 42% |
+| Links or references to the implementation | 7 | 10 | 20 | 10 | 3 | 2.84 | 3 | 26% |
 
 ### Please indicate how much you agree or disagree with the following?
 
-Scale: Strongly disagree / Somewhat disagree / Neutral / Somewhat agree / Strongly agree. `top2` is the share of answers in the two highest points.
+Scale: Strongly disagree / Somewhat disagree / Neutral / Somewhat agree / Strongly agree. `mean` is the average score, with the points numbered from 1 to 5; `top2` is the share of answers in the two highest points.
 
-| Item | 1 | 2 | 3 | 4 | 5 | median | top2 |
-|---|---|---|---|---|---|---|---|
-| A decision record without its reasoning is of little value | 0 | 0 | 4 | 19 | 27 | 5 | 92% |
-| A record should be honest about what gets worse as a result of the decision | 0 | 1 | 4 | 13 | 32 | 5 | 90% |
-| A record should state the decision assertively ("we will do X"), not tentatively | 0 | 1 | 9 | 17 | 23 | 4 | 80% |
-| A record should explain the decision, not argue for it | 0 | 4 | 10 | 20 | 16 | 4 | 72% |
-| A record should cover exactly one decision | 2 | 3 | 10 | 16 | 19 | 4 | 70% |
-| Stating a quality goal (e.g. "good performance") without a concrete, checkable criterion makes a record weaker | 2 | 6 | 7 | 23 | 12 | 4 | 70% |
-| Code-level implementation detail does not belong in a decision record | 1 | 6 | 12 | 11 | 20 | 4 | 62% |
-| A structured table of pros and cons is good practice in a decision record | 3 | 6 | 19 | 16 | 6 | 3 | 44% |
-| Consequences should be stated as neutral facts, not as advantages and disadvantages | 2 | 13 | 16 | 13 | 6 | 3 | 38% |
+| Item | 1 | 2 | 3 | 4 | 5 | mean | median | top2 |
+|---|---|---|---|---|---|---|---|---|
+| A record should be honest about what gets worse as a result of the decision | 0 | 1 | 4 | 13 | 32 | 4.52 | 5 | 90% |
+| A decision record without its reasoning is of little value | 0 | 0 | 4 | 19 | 27 | 4.46 | 5 | 92% |
+| A record should state the decision assertively ("we will do X"), not tentatively | 0 | 1 | 9 | 17 | 23 | 4.24 | 4 | 80% |
+| A record should explain the decision, not argue for it | 0 | 4 | 10 | 20 | 16 | 3.96 | 4 | 72% |
+| A record should cover exactly one decision | 2 | 3 | 10 | 16 | 19 | 3.94 | 4 | 70% |
+| Code-level implementation detail does not belong in a decision record | 1 | 6 | 12 | 11 | 20 | 3.86 | 4 | 62% |
+| Stating a quality goal (e.g. "good performance") without a concrete, checkable criterion makes a record weaker | 2 | 6 | 7 | 23 | 12 | 3.74 | 4 | 70% |
+| A structured table of pros and cons is good practice in a decision record | 3 | 6 | 19 | 16 | 6 | 3.32 | 3 | 44% |
+| Consequences should be stated as neutral facts, not as advantages and disadvantages | 2 | 13 | 16 | 13 | 6 | 3.16 | 3 | 38% |
 
 ### How much do the following contribute to whether a decision record is worth writing?
 
-Scale: Not at all / Slightly / Moderately / Strongly / Decisively. `top2` is the share of answers in the two highest points.
+Scale: Not at all / Slightly / Moderately / Strongly / Decisively. `mean` is the average score, with the points numbered from 1 to 5; `top2` is the share of answers in the two highest points.
 
-| Item | 1 | 2 | 3 | 4 | 5 | median | top2 |
-|---|---|---|---|---|---|---|---|
-| How hard the decision would be to reverse later | 2 | 0 | 7 | 20 | 21 | 4 | 82% |
-| How non-obvious the chosen option is | 4 | 4 | 7 | 21 | 14 | 4 | 70% |
-| How many teams or components it affects | 3 | 4 | 14 | 21 | 8 | 4 | 58% |
-| How long the system is expected to live | 7 | 9 | 8 | 16 | 10 | 4 | 52% |
-| Whether a process or auditor requires it | 11 | 7 | 14 | 4 | 14 | 3 | 36% |
-| How large the team is | 12 | 10 | 19 | 9 | 0 | 3 | 18% |
+| Item | 1 | 2 | 3 | 4 | 5 | mean | median | top2 |
+|---|---|---|---|---|---|---|---|---|
+| How hard the decision would be to reverse later | 2 | 0 | 7 | 20 | 21 | 4.16 | 4 | 82% |
+| How non-obvious the chosen option is | 4 | 4 | 7 | 21 | 14 | 3.74 | 4 | 70% |
+| How many teams or components it affects | 3 | 4 | 14 | 21 | 8 | 3.54 | 4 | 58% |
+| How long the system is expected to live | 7 | 9 | 8 | 16 | 10 | 3.26 | 4 | 52% |
+| Whether a process or auditor requires it | 11 | 7 | 14 | 4 | 14 | 3.06 | 3 | 36% |
+| How large the team is | 12 | 10 | 19 | 9 | 0 | 2.50 | 3 | 18% |
 
 ### How much does each of the following prevent decision records from being written or kept current?
 
-Scale: Not a barrier / Minor barrier / Moderate barrier / Major barrier / The main barrier. `top2` is the share of answers in the two highest points.
+Scale: Not a barrier / Minor barrier / Moderate barrier / Major barrier / The main barrier. `mean` is the average score, with the points numbered from 1 to 5; `top2` is the share of answers in the two highest points.
 
-| Item | 1 | 2 | 3 | 4 | 5 | median | top2 |
-|---|---|---|---|---|---|---|---|
-| Lack of individual discipline or habit | 1 | 7 | 10 | 20 | 12 | 4 | 64% |
-| Time pressure and deadlines | 3 | 12 | 11 | 18 | 6 | 3 | 48% |
-| People don't see the value | 6 | 12 | 8 | 21 | 3 | 3 | 48% |
-| The process feels too heavy or bureaucratic | 8 | 12 | 10 | 14 | 6 | 3 | 40% |
-| No management support or budget for documentation | 11 | 6 | 14 | 12 | 7 | 3 | 38% |
-| No clear ownership of the records | 13 | 4 | 15 | 14 | 4 | 3 | 36% |
-| Ownership moved to another team | 19 | 8 | 14 | 7 | 2 | 2 | 18% |
-| No good tool or place to put them | 23 | 12 | 7 | 8 | 0 | 2 | 16% |
+| Item | 1 | 2 | 3 | 4 | 5 | mean | median | top2 |
+|---|---|---|---|---|---|---|---|---|
+| Lack of individual discipline or habit | 1 | 7 | 10 | 20 | 12 | 3.70 | 4 | 64% |
+| Time pressure and deadlines | 3 | 12 | 11 | 18 | 6 | 3.24 | 3 | 48% |
+| People don't see the value | 6 | 12 | 8 | 21 | 3 | 3.06 | 3 | 48% |
+| The process feels too heavy or bureaucratic | 8 | 12 | 10 | 14 | 6 | 2.96 | 3 | 40% |
+| No management support or budget for documentation | 11 | 6 | 14 | 12 | 7 | 2.96 | 3 | 38% |
+| No clear ownership of the records | 13 | 4 | 15 | 14 | 4 | 2.84 | 3 | 36% |
+| Ownership moved to another team | 19 | 8 | 14 | 7 | 2 | 2.30 | 2 | 18% |
+| No good tool or place to put them | 23 | 12 | 7 | 8 | 0 | 2.00 | 2 | 16% |
 
 ### From your experience, what effect do decision records have on each of the following?
 
-Scale: No effect / Slight improvement / Moderate improvement / Large improvement. `top2` is the share of answers in the two highest points.
+Scale: No effect / Slight improvement / Moderate improvement / Large improvement. `mean` is the average score, with the points numbered from 1 to 4; `top2` is the share of answers in the two highest points.
 
-| Item | 1 | 2 | 3 | 4 | median | top2 |
-|---|---|---|---|---|---|---|
-| Avoiding re-litigating settled decisions | 1 | 5 | 15 | 29 | 4 | 88% |
-| The quality of the decisions themselves | 3 | 6 | 22 | 19 | 3 | 82% |
-| Long-term maintainability of the system | 2 | 12 | 22 | 14 | 3 | 72% |
-| Onboarding new team members | 7 | 11 | 13 | 19 | 3 | 64% |
-| Software reliability | 14 | 10 | 21 | 5 | 3 | 52% |
-| Consistency across teams solving similar problems | 9 | 17 | 14 | 10 | 2 | 48% |
-| Code quality | 20 | 18 | 7 | 5 | 2 | 24% |
+| Item | 1 | 2 | 3 | 4 | mean | median | top2 |
+|---|---|---|---|---|---|---|---|
+| Avoiding re-litigating settled decisions | 1 | 5 | 15 | 29 | 3.44 | 4 | 88% |
+| The quality of the decisions themselves | 3 | 6 | 22 | 19 | 3.14 | 3 | 82% |
+| Long-term maintainability of the system | 2 | 12 | 22 | 14 | 2.96 | 3 | 72% |
+| Onboarding new team members | 7 | 11 | 13 | 19 | 2.88 | 3 | 64% |
+| Consistency across teams solving similar problems | 9 | 17 | 14 | 10 | 2.50 | 2 | 48% |
+| Software reliability | 14 | 10 | 21 | 5 | 2.34 | 3 | 52% |
+| Code quality | 20 | 18 | 7 | 5 | 1.94 | 2 | 24% |
 
 ### Please indicate how much you agree or disagree with the following?
 
-Scale: Strongly disagree / Disagree / Neither / Agree / Strongly agree. `top2` is the share of answers in the two highest points.
+Scale: Strongly disagree / Disagree / Neither / Agree / Strongly agree. `mean` is the average score, with the points numbered from 1 to 5; `top2` is the share of answers in the two highest points.
 
-| Item | 1 | 2 | 3 | 4 | 5 | median | top2 |
-|---|---|---|---|---|---|---|---|
-| Decision records are valuable as context for AI coding assistants | 0 | 0 | 9 | 16 | 25 | 4.5 | 82% |
-| AI-generated decision records tend to be too long and unfocused | 3 | 5 | 9 | 18 | 15 | 4 | 66% |
-| Relying on AI risks reducing the number of experienced architects in future | 4 | 7 | 8 | 17 | 14 | 4 | 62% |
-| AI assistance makes keeping records up to date easier | 2 | 6 | 11 | 21 | 10 | 4 | 62% |
-| AI tools reinterpret our terminology toward their own conventions | 1 | 8 | 24 | 13 | 4 | 3 | 34% |
-| Writing records is not worth automating — it's cheaper to do by hand | 6 | 18 | 11 | 7 | 8 | 3 | 30% |
-| AI tools default to one way of architecting and rarely offer alternatives | 3 | 17 | 17 | 12 | 1 | 3 | 26% |
-| I would trust a rationale written by an AI tool | 16 | 12 | 11 | 10 | 1 | 2 | 22% |
+| Item | 1 | 2 | 3 | 4 | 5 | mean | median | top2 |
+|---|---|---|---|---|---|---|---|---|
+| Decision records are valuable as context for AI coding assistants | 0 | 0 | 9 | 16 | 25 | 4.32 | 4.5 | 82% |
+| AI-generated decision records tend to be too long and unfocused | 3 | 5 | 9 | 18 | 15 | 3.74 | 4 | 66% |
+| AI assistance makes keeping records up to date easier | 2 | 6 | 11 | 21 | 10 | 3.62 | 4 | 62% |
+| Relying on AI risks reducing the number of experienced architects in future | 4 | 7 | 8 | 17 | 14 | 3.60 | 4 | 62% |
+| AI tools reinterpret our terminology toward their own conventions | 1 | 8 | 24 | 13 | 4 | 3.22 | 3 | 34% |
+| Writing records is not worth automating — it's cheaper to do by hand | 6 | 18 | 11 | 7 | 8 | 2.86 | 3 | 30% |
+| AI tools default to one way of architecting and rarely offer alternatives | 3 | 17 | 17 | 12 | 1 | 2.82 | 3 | 26% |
+| I would trust a rationale written by an AI tool | 16 | 12 | 11 | 10 | 1 | 2.36 | 2 | 22% |
